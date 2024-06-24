@@ -1,0 +1,15 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/bin/Debug/net8.0/HelloMelany
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/bin/Debug/net8.0/HelloMelany.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/bin/Debug/net8.0/HelloMelany.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/bin/Debug/net8.0/HelloMelany.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/bin/Debug/net8.0/HelloMelany.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.sourcelink.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/refint/HelloMelany.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/HelloMelany.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter 1/HelloWorld/HelloMelany/obj/Debug/net8.0/ref/HelloMelany.dll
